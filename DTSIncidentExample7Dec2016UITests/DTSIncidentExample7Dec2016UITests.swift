@@ -25,5 +25,6 @@ class DTSIncidentExample7Dec2016UITests: XCTestCase {
         }
 
         app.buttons["I'm a button, click me!"].tap()
+        app.buttons["OK, now click me!"].tap()
     }
 }
