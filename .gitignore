@@ -24,3 +24,4 @@ xcuserdata
 Pods/*.xcodeproj/xcuserdata/
 Pods/*.xcodeproj/project.xcworkspace/xcuserdata/
 *.sketch
+*.zip
